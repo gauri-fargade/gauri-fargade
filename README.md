@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gauri-fargade
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Data Science,Data Analytics and Full Stack Web Development
 - 🌱 I’m currently pursuing B.E in computer 
 - 📫 How to reach me : fargadegauri@gmail.com
 
