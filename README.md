@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauri-fargade
 - 👀 I’m interested in Data Science,Data Analytics and Full Stack Web Development
-- 🌱 I’m currently pursuing B.E in computer 
+- 🌱 I’m currently pursuing B.E in computer science
 - 📫 How to reach me : fargadegauri@gmail.com
 
 
